@@ -1,16 +1,25 @@
-# myapp
+# Jogo da Velha
 
-A new Flutter project.
+O Jogo da Velha é um clássico jogo de tabuleiro que desafia dois jogadores a competir para formar uma linha de três símbolos iguais, seja na horizontal, vertical ou diagonal. Este aplicativo Flutter oferece uma experiência moderna e interativa do jogo, permitindo que você jogue contra outro humano ou contra a máquina.
 
-## Getting Started
+Características:
 
-This project is a starting point for a Flutter application.
+Modo de Jogo: Escolha entre jogar contra outro jogador ou desafiar a inteligência artificial.
 
-A few resources to get you started if this is your first Flutter project:
+Interface Intuitiva: Um tabuleiro de 3x3 com design limpo e responsivo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Feedback Imediato: Indicação clara de vitória, derrota ou empate.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reiniciar Jogo: Fácil reinício do jogo com um simples toque de botão.
+
+Como Jogar:
+
+Selecione o modo de jogo (Humano ou Computador).
+
+Toque em uma célula vazia para fazer sua jogada.
+
+O jogo alterna automaticamente entre os jogadores.
+
+O primeiro a formar uma linha de três símbolos iguais vence!
+
+Desafie seus amigos ou teste suas habilidades contra a máquina neste divertido e envolvente Jogo da Velha!
